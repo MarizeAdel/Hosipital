@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\.net\\MyProjects\\Hosipital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E781D62-E34D-4DA9-AB66-D1B1BE3A7B2E}|..\\HospitalRepo\\HospitalRepo.csproj|d:\\study\\.net\\myprojects\\hospitalrepo\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|D:\\study\\.net\\MyProjects\\Hosipital\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6340AB-0629-4E7F-A371-C2D045D05510}|..\\HospitalUtilites\\HospitalUtilites.csproj|d:\\study\\.net\\myprojects\\hospitalutilites\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E781D62-E34D-4DA9-AB66-D1B1BE3A7B2E}|..\\HospitalRepo\\HospitalRepo.csproj|d:\\study\\.net\\myprojects\\hospitalrepo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E781D62-E34D-4DA9-AB66-D1B1BE3A7B2E}|..\\HospitalRepo\\HospitalRepo.csproj|d:\\study\\.net\\myprojects\\hospitalrepo\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E781D62-E34D-4DA9-AB66-D1B1BE3A7B2E}|..\\HospitalRepo\\HospitalRepo.csproj|d:\\study\\.net\\myprojects\\hospitalrepo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A24A2F-E1FB-4B73-B051-E1F24AAABF39}|..\\HospitalModels\\HospitalModels.csproj|d:\\study\\.net\\myprojects\\hospitalmodels\\igenricrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E781D62-E34D-4DA9-AB66-D1B1BE3A7B2E}|..\\HospitalRepo\\HospitalRepo.csproj|d:\\study\\.net\\myprojects\\hospitalrepo\\hospitalrepo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A24A2F-E1FB-4B73-B051-E1F24AAABF39}|..\\HospitalModels\\HospitalModels.csproj|d:\\study\\.net\\myprojects\\hospitalmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\Hosipital\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\Hosipital\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-06T23:05:47.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\HospitalRepo\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Implementation\\UnitOfWork.cs*",
+              "RelativeToolTip": "..\\HospitalRepo\\Implementation\\UnitOfWork.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:59:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\HospitalRepo\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\HospitalRepo\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:52:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "..\\HospitalRepo\\Implementation\\GenericRepo.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "..\\HospitalRepo\\Implementation\\GenericRepo.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwG0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:34:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IgenericRepo.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Interfaces\\IgenericRepo.cs",
+              "RelativeDocumentMoniker": "..\\HospitalRepo\\Interfaces\\IgenericRepo.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Interfaces\\IgenericRepo.cs",
+              "RelativeToolTip": "..\\HospitalRepo\\Interfaces\\IgenericRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:22:55.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HospitalRepo",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj",
+              "RelativeDocumentMoniker": "..\\HospitalRepo\\HospitalRepo.csproj",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj",
+              "RelativeToolTip": "..\\HospitalRepo\\HospitalRepo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T12:21:40.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\HospitalUtilites\\DbInitializer.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\DbInitializer.cs",
+              "RelativeToolTip": "..\\HospitalUtilites\\DbInitializer.cs",
+              "ViewState": "AQIAAA0AAACAMjMzMzMLwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:09:36.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\HospitalModels\\ApplicationUser.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalModels\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\HospitalModels\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:30:16.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenricRepo.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalModels\\IGenricRepo.cs",
+              "RelativeDocumentMoniker": "..\\HospitalModels\\IGenricRepo.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\HospitalModels\\IGenricRepo.cs",
+              "RelativeToolTip": "..\\HospitalModels\\IGenricRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:24:21.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
