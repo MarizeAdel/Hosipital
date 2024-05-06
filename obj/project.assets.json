@@ -4108,6 +4108,23 @@
         "runtime": {
           "bin/placeholder/HospitalRepo.dll": {}
         }
+      },
+      "HospitalUtilites/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HospitalModels": "1.0.0",
+          "HospitalRepo": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.29",
+          "Microsoft.EntityFrameworkCore": "6.0.29",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.29"
+        },
+        "compile": {
+          "bin/placeholder/HospitalUtilites.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HospitalUtilites.dll": {}
+        }
       }
     }
   },
@@ -11488,11 +11505,17 @@
       "type": "project",
       "path": "../HospitalRepo/HospitalRepo.csproj",
       "msbuildProject": "../HospitalRepo/HospitalRepo.csproj"
+    },
+    "HospitalUtilites/1.0.0": {
+      "type": "project",
+      "path": "../HospitalUtilites/HospitalUtilites.csproj",
+      "msbuildProject": "../HospitalUtilites/HospitalUtilites.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "HospitalRepo >= 1.0.0",
+      "HospitalUtilites >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.29",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.29",
       "Microsoft.EntityFrameworkCore >= 6.0.29",
@@ -11531,6 +11554,9 @@
           "projectReferences": {
             "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj": {
               "projectPath": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj"
+            },
+            "D:\\study\\.net\\MyProjects\\HospitalUtilites\\HospitalUtilites.csproj": {
+              "projectPath": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\HospitalUtilites.csproj"
             }
           }
         }

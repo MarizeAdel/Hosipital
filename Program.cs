@@ -1,4 +1,6 @@
 using HospitalRepo;
+using HospitalRepo.Interfaces;
+using HospitalUtilites;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,11 +20,13 @@ namespace Hosipital
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(builder.Configuration.
             GetConnectionString("DefaultConnection")));
-
-                        builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddIdentity<IdentityUser,IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
-            
+            builder.Services.AddScoped<IDbIniliazer,DbInitializer>();
+            builder.Services.AddTransient<IUnitOfWork,IUnitOfWork>();
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -37,15 +41,24 @@ namespace Hosipital
             app.UseStaticFiles();
 
             app.UseRouting();
-                        app.UseAuthentication();;
+            DataSedding();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{Area=Patient}/{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
+            void DataSedding()
+            {
+                using (var scope = app.Services.CreateScope())
+                {
+                    var dbInitializer = scope.ServiceProvider.GetRequiredService<DbInitializer>();
+                    dbInitializer.Initialize();
+                }
+            }
         }
     }
 }

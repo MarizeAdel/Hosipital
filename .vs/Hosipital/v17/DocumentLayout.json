@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\study\\.net\\MyProjects\\Hosipital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|D:\\study\\.net\\MyProjects\\Hosipital\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|d:\\study\\.net\\myprojects\\hosipital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|d:\\study\\.net\\myprojects\\hosipital\\areas\\patient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|solutionrelative:areas\\patient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|d:\\study\\.net\\myprojects\\hosipital\\areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|solutionrelative:areas\\patient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|d:\\study\\.net\\myprojects\\hosipital\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|d:\\study\\.net\\myprojects\\hosipital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|D:\\study\\.net\\MyProjects\\Hosipital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4B7165-C844-4A01-94AA-BF36BC5DACF3}|Hosipital.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,11 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\Hosipital\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\Hosipital\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:34:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\Hosipital\\Areas\\Patient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Patient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\Hosipital\\Areas\\Patient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Patient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:32:37.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\study\\.net\\MyProjects\\Hosipital\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Patient\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\study\\.net\\MyProjects\\Hosipital\\Areas\\Patient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Patient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:31:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\Hosipital\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -54,12 +105,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T23:17:34.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T23:17:34.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\Hosipital\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
@@ -72,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Implementation\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\HospitalRepo\\Implementation\\UnitOfWork.cs",
@@ -80,12 +130,11 @@
               "RelativeToolTip": "..\\HospitalRepo\\Implementation\\UnitOfWork.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAwwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:59:56.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T13:59:56.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\HospitalRepo\\Interfaces\\IUnitOfWork.cs",
@@ -97,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "GenericRepo.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Implementation\\GenericRepo.cs",
               "RelativeDocumentMoniker": "..\\HospitalRepo\\Implementation\\GenericRepo.cs",
@@ -109,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IgenericRepo.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\Interfaces\\IgenericRepo.cs",
               "RelativeDocumentMoniker": "..\\HospitalRepo\\Interfaces\\IgenericRepo.cs",
@@ -121,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "HospitalRepo",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj",
               "RelativeDocumentMoniker": "..\\HospitalRepo\\HospitalRepo.csproj",
@@ -133,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\DbInitializer.cs",
               "RelativeDocumentMoniker": "..\\HospitalUtilites\\DbInitializer.cs",
@@ -145,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalModels\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "..\\HospitalModels\\ApplicationUser.cs",
@@ -157,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IGenricRepo.cs",
               "DocumentMoniker": "D:\\study\\.net\\MyProjects\\HospitalModels\\IGenricRepo.cs",
               "RelativeDocumentMoniker": "..\\HospitalModels\\IGenricRepo.cs",
