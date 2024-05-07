@@ -1,4 +1,5 @@
 using HospitalRepo;
+using HospitalRepo.Implementation;
 using HospitalRepo.Interfaces;
 using HospitalUtilites;
 using Microsoft.AspNetCore.Identity;
@@ -23,7 +24,7 @@ namespace Hosipital
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             builder.Services.AddScoped<IDbIniliazer,DbInitializer>();
-            builder.Services.AddTransient<IUnitOfWork,IUnitOfWork>();
+            builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
             builder.Services.AddRazorPages();
 
             var app = builder.Build();
