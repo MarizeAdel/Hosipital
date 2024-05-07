@@ -288,3 +288,5 @@ D:\study\.net\MyProjects\Hosipital\obj\Debug\net6.0\Hosipital.MvcApplicationPart
 D:\study\.net\MyProjects\Hosipital\bin\Debug\net6.0\HospitalModels.dll
 D:\study\.net\MyProjects\Hosipital\bin\Debug\net6.0\HospitalModels.pdb
 D:\study\.net\MyProjects\Hosipital\obj\Debug\net6.0\Hosipital.sourcelink.json
+D:\study\.net\MyProjects\Hosipital\bin\Debug\net6.0\HospitalUtilites.dll
+D:\study\.net\MyProjects\Hosipital\bin\Debug\net6.0\HospitalUtilites.pdb

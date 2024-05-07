@@ -9,9 +9,11 @@
       "Hosipital/1.0.0": {
         "dependencies": {
           "HospitalRepo": "1.0.0",
+          "HospitalUtilites": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.29",
           "Microsoft.AspNetCore.Identity.UI": "6.0.29",
           "Microsoft.EntityFrameworkCore": "6.0.29",
+          "Microsoft.EntityFrameworkCore.Design": "6.0.29",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.29",
           "Microsoft.EntityFrameworkCore.Sqlite": "6.0.29",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.29",
@@ -2765,6 +2767,18 @@
         "runtime": {
           "HospitalRepo.dll": {}
         }
+      },
+      "HospitalUtilites/1.0.0": {
+        "dependencies": {
+          "HospitalModels": "1.0.0",
+          "HospitalRepo": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.29",
+          "Microsoft.EntityFrameworkCore": "6.0.29",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.29"
+        },
+        "runtime": {
+          "HospitalUtilites.dll": {}
+        }
       }
     }
   },
@@ -4397,6 +4411,11 @@
       "sha512": ""
     },
     "HospitalRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HospitalUtilites/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

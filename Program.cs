@@ -13,19 +13,18 @@ namespace Hosipital
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-                        var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContextConnection") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContextConnection' not found.");
-
+                        
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseSqlServer(builder.Configuration.
+                options.UseSqlServer(builder.Configuration.
             GetConnectionString("DefaultConnection")));
-            builder.Services.AddIdentity<IdentityUser,IdentityRole>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddIdentity<IdentityUser,IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             builder.Services.AddScoped<IDbIniliazer,DbInitializer>();
             builder.Services.AddTransient<IUnitOfWork,IUnitOfWork>();
-
+            builder.Services.AddRazorPages();
 
             var app = builder.Build();
 
@@ -45,6 +44,8 @@ namespace Hosipital
             app.UseAuthentication();
 
             app.UseAuthorization();
+
+            app.MapRazorPages();
 
             app.MapControllerRoute(
                 name: "default",
