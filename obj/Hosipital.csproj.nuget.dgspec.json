@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\.net\\MyProjects\\Hosipital\\Hosipital.csproj": {}
+    "D:\\study\\.net\\MyProjects\\H\\Hosipital\\Hosipital.csproj": {}
   },
   "projects": {
-    "D:\\study\\.net\\MyProjects\\Hosipital\\Hosipital.csproj": {
+    "D:\\study\\.net\\MyProjects\\H\\Hosipital\\Hosipital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\.net\\MyProjects\\Hosipital\\Hosipital.csproj",
+        "projectUniqueName": "D:\\study\\.net\\MyProjects\\H\\Hosipital\\Hosipital.csproj",
         "projectName": "Hosipital",
-        "projectPath": "D:\\study\\.net\\MyProjects\\Hosipital\\Hosipital.csproj",
+        "projectPath": "D:\\study\\.net\\MyProjects\\H\\Hosipital\\Hosipital.csproj",
         "packagesPath": "C:\\Users\\mariz\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\.net\\MyProjects\\Hosipital\\obj\\",
+        "outputPath": "D:\\study\\.net\\MyProjects\\H\\Hosipital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mariz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj": {
-                "projectPath": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj"
+              "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\HospitalRepo.csproj": {
+                "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\HospitalRepo.csproj"
               },
-              "D:\\study\\.net\\MyProjects\\HospitalUtilites\\HospitalUtilites.csproj": {
-                "projectPath": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\HospitalUtilites.csproj"
+              "D:\\study\\.net\\MyProjects\\H\\HospitalUtilites\\HospitalUtilites.csproj": {
+                "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalUtilites\\HospitalUtilites.csproj"
               }
             }
           }
@@ -112,14 +112,14 @@
         }
       }
     },
-    "D:\\study\\.net\\MyProjects\\HospitalModels\\HospitalModels.csproj": {
+    "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\HospitalModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\.net\\MyProjects\\HospitalModels\\HospitalModels.csproj",
+        "projectUniqueName": "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\HospitalModels.csproj",
         "projectName": "HospitalModels",
-        "projectPath": "D:\\study\\.net\\MyProjects\\HospitalModels\\HospitalModels.csproj",
+        "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\HospitalModels.csproj",
         "packagesPath": "C:\\Users\\mariz\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\.net\\MyProjects\\HospitalModels\\obj\\",
+        "outputPath": "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mariz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -192,14 +192,14 @@
         }
       }
     },
-    "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj": {
+    "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\HospitalRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj",
+        "projectUniqueName": "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\HospitalRepo.csproj",
         "projectName": "HospitalRepo",
-        "projectPath": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj",
+        "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\HospitalRepo.csproj",
         "packagesPath": "C:\\Users\\mariz\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\.net\\MyProjects\\HospitalRepo\\obj\\",
+        "outputPath": "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mariz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -216,8 +216,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\study\\.net\\MyProjects\\HospitalModels\\HospitalModels.csproj": {
-                "projectPath": "D:\\study\\.net\\MyProjects\\HospitalModels\\HospitalModels.csproj"
+              "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\HospitalModels.csproj": {
+                "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\HospitalModels.csproj"
               }
             }
           }
@@ -276,14 +276,14 @@
         }
       }
     },
-    "D:\\study\\.net\\MyProjects\\HospitalUtilites\\HospitalUtilites.csproj": {
+    "D:\\study\\.net\\MyProjects\\H\\HospitalUtilites\\HospitalUtilites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\HospitalUtilites.csproj",
+        "projectUniqueName": "D:\\study\\.net\\MyProjects\\H\\HospitalUtilites\\HospitalUtilites.csproj",
         "projectName": "HospitalUtilites",
-        "projectPath": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\HospitalUtilites.csproj",
+        "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalUtilites\\HospitalUtilites.csproj",
         "packagesPath": "C:\\Users\\mariz\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\.net\\MyProjects\\HospitalUtilites\\obj\\",
+        "outputPath": "D:\\study\\.net\\MyProjects\\H\\HospitalUtilites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mariz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -300,11 +300,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\study\\.net\\MyProjects\\HospitalModels\\HospitalModels.csproj": {
-                "projectPath": "D:\\study\\.net\\MyProjects\\HospitalModels\\HospitalModels.csproj"
+              "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\HospitalModels.csproj": {
+                "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalModels\\HospitalModels.csproj"
               },
-              "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj": {
-                "projectPath": "D:\\study\\.net\\MyProjects\\HospitalRepo\\HospitalRepo.csproj"
+              "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\HospitalRepo.csproj": {
+                "projectPath": "D:\\study\\.net\\MyProjects\\H\\HospitalRepo\\HospitalRepo.csproj"
               }
             }
           }
@@ -325,6 +325,10 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[6.0.29, )"
             },

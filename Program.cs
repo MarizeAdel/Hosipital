@@ -3,6 +3,7 @@ using HospitalRepo.Implementation;
 using HospitalRepo.Interfaces;
 using HospitalUtilites;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -25,6 +26,7 @@ namespace Hosipital
 
             builder.Services.AddScoped<IDbIniliazer,DbInitializer>();
             builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<IEmailSender, EmailSender>();
             builder.Services.AddRazorPages();
 
             var app = builder.Build();
@@ -39,15 +41,11 @@ namespace Hosipital
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
             DataSedding();
             app.UseAuthentication();
-
             app.UseAuthorization();
-
             app.MapRazorPages();
-
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{Area=Patient}/{controller=Home}/{action=Index}/{id?}");
@@ -57,7 +55,7 @@ namespace Hosipital
             {
                 using (var scope = app.Services.CreateScope())
                 {
-                    var dbInitializer = scope.ServiceProvider.GetRequiredService<DbInitializer>();
+                    var dbInitializer = scope.ServiceProvider.GetRequiredService<IDbIniliazer>();
                     dbInitializer.Initialize();
                 }
             }

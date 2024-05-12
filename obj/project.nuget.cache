@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oU+O3FFTSXz/rjnSSvPDpV9azhPDMSUkqaLfMD9Z0F24Dx1DoYU3SUpnSqwIz6QChlqzrNRMIVTMsiLVuHJflA==",
+  "dgSpecHash": "d1xS1k9SvwjF2BT6LKqDji5CqQ3YGDhR8X5284wZ6dwALTQRTfrFvVLk//JUeA/Qy6PJiIs0CFZDLS3ysXpqKQ==",
   "success": true,
-  "projectFilePath": "D:\\study\\.net\\MyProjects\\Hosipital\\Hosipital.csproj",
+  "projectFilePath": "D:\\study\\.net\\MyProjects\\H\\Hosipital\\Hosipital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mariz\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\mariz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
