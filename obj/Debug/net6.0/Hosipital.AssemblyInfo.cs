@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hosipital")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baac708601c6b520b5af3fdc106e94df7afe57db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0173cb4ea823d2e50f41117374abf02297b0ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hosipital")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hosipital")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
